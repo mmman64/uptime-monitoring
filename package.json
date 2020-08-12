@@ -1,0 +1,17 @@
+{
+  "name": "uptime-monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "package": "zip -r http-metrics.zip ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.1"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.492.0"
+  }
+}
